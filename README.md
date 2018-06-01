@@ -14,7 +14,7 @@ than that then the factor is true and flag is 1.
 2. Whether account is Private or Public: It checks the privacy of the account and sets the
 value of flag to 1 if it is private.
 
-3. 3. Account is Verified or not: It checks the certification of the account and sets the value
+3. Account is Verified or not: It checks the certification of the account and sets the value
 of flag to 1 if it is private.
 
 4. Presence of profile picture: It scans the profile and checks if the user has a profile picture
