@@ -2,7 +2,7 @@
 This project brings in the concept of a complete integrated system that works on Instagram and calculates the percentage of account's genuinity and fakeness, evaluates an account on factors like inactivity or bot account and segregates any given public account into normal, celebrity or promotional account.
 ----------------------------------------------------
 #Working
-The project works in 2 phases. Firstly we run all the python scrypts and store data in the database. secondly we access all the information from the database and feed it into servlets and format itin HTML. 
+The project works in 2 phases. Firstly we run all the python scrypts and store data in the database. secondly we access all the information from the database and feed it into servlets and format it in HTML. 
 ----------------------------------------------------
 #Features
 It checks on the basis of the following factor tests:
