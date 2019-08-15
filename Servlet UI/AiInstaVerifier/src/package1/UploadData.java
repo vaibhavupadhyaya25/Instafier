@@ -40,7 +40,7 @@ public class UploadData extends HttpServlet {
             System.out.println("class successfully loaded");
             
             Connection conn=DriverManager.getConnection(
-                         "jdbc:mysql://localhost:3306/mayur","root","codethecode@1");
+                         "jdbc:mysql://localhost:3306/vaibhavdb","root","password");
             System.out.println("successfully connected");
            
             PreparedStatement ps=conn.prepareStatement("insert into imagebox(imgid) values(?)");  
