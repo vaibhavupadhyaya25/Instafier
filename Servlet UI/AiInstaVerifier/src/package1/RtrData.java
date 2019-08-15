@@ -52,7 +52,7 @@ public class RtrData extends HttpServlet {
             System.out.println("class successfully loaded");
             
             Connection con=DriverManager.getConnection(
-                         "jdbc:mysql://localhost:3306/mayur","root","codethecode@1");
+                         "jdbc:mysql://localhost:3306/vaibhavdb","root","password");
             System.out.println("successfully connected");
 			      
             String SQLZ = "select * from imagebox";
